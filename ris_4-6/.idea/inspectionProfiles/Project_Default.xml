@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E127" />
+          <option value="E501" />
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N813" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="the_trisemus_cipher.TrisemusCipher" />
+          <option value="object.coef_" />
+          <option value="object.score" />
+          <option value="object.intercept_" />
+          <option value="object.intecept_" />
+          <option value="object.untercept_" />
+          <option value="object.predict" />
+          <option value="object.dual_coef_" />
+          <option value="object.support_vectors_" />
+          <option value="object.decision_function" />
+          <option value="object.coefs_" />
+          <option value="object.predict_proba" />
+          <option value="object.classes_" />
+          <option value="object.transform" />
+          <option value="object.fit" />
+          <option value="object.components_" />
+          <option value="object.labels_" />
+          <option value="object.cluster_centers_" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

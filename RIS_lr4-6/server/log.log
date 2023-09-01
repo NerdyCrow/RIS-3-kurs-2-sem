@@ -1,0 +1,337 @@
+[2023-05-02T11:49:30.281] [DEBUG] default - send db
+[2023-05-02T11:49:41.814] [DEBUG] default - fetch from 1
+[2023-05-02T11:49:41.830] [DEBUG] default - fetch from 2
+[2023-05-02T11:49:41.852] [DEBUG] default - from 1: 10
+[2023-05-02T11:49:41.862] [DEBUG] default - from 2: 10
+[2023-05-02T11:49:42.015] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:49:42.074] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:49:42.151] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:49:42.217] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:49:42.305] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:49:42.372] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:49:42.471] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:49:42.537] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:49:42.614] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:49:42.677] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:49:42.748] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:49:42.814] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:49:42.891] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:49:42.958] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:49:43.035] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:49:43.102] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:49:43.179] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:49:43.246] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:49:43.323] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:49:43.411] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:49:51.836] [DEBUG] default - fetch from 1
+[2023-05-02T11:49:51.851] [DEBUG] default - from 1: 10
+[2023-05-02T11:49:51.855] [DEBUG] default - fetch from 2
+[2023-05-02T11:49:51.873] [DEBUG] default - from 2: 10
+[2023-05-02T11:49:52.020] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:49:52.108] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:49:52.174] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:49:52.245] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:49:52.318] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:49:52.385] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:49:52.462] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:49:52.535] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:49:52.607] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:49:52.684] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:49:52.750] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:49:52.827] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:49:52.908] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:49:52.977] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:49:53.049] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:49:53.121] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:49:53.193] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:49:53.272] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:49:53.337] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:49:53.409] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:01.836] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:01.850] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:01.857] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:01.873] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:02.118] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:02.191] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:02.273] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:02.351] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:02.406] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:02.471] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:02.538] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:02.604] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:02.665] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:02.726] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:02.783] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:02.866] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:02.953] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:03.025] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:03.091] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:03.169] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:03.246] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:03.319] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:03.379] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:50:03.446] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:11.836] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:11.850] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:11.857] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:11.866] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:12.106] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:12.200] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:12.272] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:12.348] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:12.421] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:12.477] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:12.537] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:12.603] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:12.664] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:12.742] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:12.814] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:12.897] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:12.957] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:13.020] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:13.078] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:13.145] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:13.223] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:13.301] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:13.362] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:50:13.433] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:21.840] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:21.851] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:21.859] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:21.869] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:22.038] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:22.126] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:22.204] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:22.280] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:22.332] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:22.386] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:22.447] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:22.524] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:22.586] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:22.662] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:22.718] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:22.791] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:22.851] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:22.934] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:23.000] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:23.078] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:23.155] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:23.232] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:23.294] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:50:23.364] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:31.849] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:31.860] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:31.863] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:31.871] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:32.014] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:32.103] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:32.180] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:32.257] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:32.307] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:32.363] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:32.423] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:32.485] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:32.544] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:32.616] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:32.677] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:32.744] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:32.810] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:32.887] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:32.948] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:33.004] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:33.075] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:33.142] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:33.203] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:50:33.264] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:41.861] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:41.864] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:41.878] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:41.884] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:42.068] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:42.222] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:42.284] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:42.333] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:42.383] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:42.489] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:42.557] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:42.620] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:42.687] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:42.753] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:42.827] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:42.893] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:42.959] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:43.020] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:43.096] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:43.174] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:43.248] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:43.306] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:43.381] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:50:43.434] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:51.874] [DEBUG] default - fetch from 1
+[2023-05-02T11:50:51.876] [DEBUG] default - fetch from 2
+[2023-05-02T11:50:51.887] [DEBUG] default - from 2: 10
+[2023-05-02T11:50:51.888] [DEBUG] default - from 1: 10
+[2023-05-02T11:50:52.134] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:50:52.194] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:50:52.264] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:50:52.332] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:50:52.409] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:50:52.476] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:50:52.552] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:50:52.615] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:50:52.685] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:50:52.751] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:50:52.817] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:50:52.884] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:50:52.951] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:50:53.017] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:50:53.083] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:50:53.145] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:50:53.216] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:50:53.282] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:50:53.348] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:50:53.415] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:01.875] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:01.878] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:01.890] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:01.896] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:02.142] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:02.297] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:02.374] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:02.441] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:02.514] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:02.574] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:02.658] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:02.723] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:02.789] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:02.886] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:02.955] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:03.016] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:03.083] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:03.148] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:03.210] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:03.269] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:03.336] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:03.414] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:03.480] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:03.546] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:11.879] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:11.882] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:11.895] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:11.901] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:12.063] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:12.196] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:12.273] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:12.339] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:12.406] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:12.473] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:12.545] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:12.605] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:12.672] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:12.738] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:12.800] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:12.860] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:12.938] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:13.004] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:13.081] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:13.147] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:13.277] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:13.335] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:13.397] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:13.457] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:21.884] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:21.886] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:21.896] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:21.900] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:22.062] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:22.150] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:22.238] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:22.300] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:22.366] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:22.438] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:22.522] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:22.594] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:22.681] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:22.743] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:22.813] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:22.876] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:22.947] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:23.015] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:23.090] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:23.152] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:23.269] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:23.333] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:23.412] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:23.480] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:31.888] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:31.891] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:31.902] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:31.904] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:32.138] [DEBUG] default - upd: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:32.304] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:32.404] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:32.470] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:32.541] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:32.602] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:32.679] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:32.746] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:32.823] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:32.964] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:33.078] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:33.156] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:33.239] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:33.310] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:33.387] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:33.454] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:33.532] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:33.598] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:33.675] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:33.737] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:41.902] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:41.904] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:41.915] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:41.920] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:42.065] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:42.191] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:42.258] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:42.325] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:42.402] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:42.479] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:42.557] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:42.618] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:42.689] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:42.750] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:42.822] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:42.888] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:42.988] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:43.077] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:43.155] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:43.243] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:43.320] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:43.387] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:43.474] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:43.541] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}
+[2023-05-02T11:51:51.907] [DEBUG] default - fetch from 1
+[2023-05-02T11:51:51.910] [DEBUG] default - fetch from 2
+[2023-05-02T11:51:51.921] [DEBUG] default - from 2: 10
+[2023-05-02T11:51:51.927] [DEBUG] default - from 1: 10
+[2023-05-02T11:51:52.086] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.376Z","clNum":2,"clNumId":1}
+[2023-05-02T11:51:52.201] [DEBUG] default - upd: {"data":"2023-05-02T10:49:38.800Z","clNum":1,"clNumId":1}
+[2023-05-02T11:51:52.268] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":2}
+[2023-05-02T11:51:52.333] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":2}
+[2023-05-02T11:51:52.412] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.379Z","clNum":2,"clNumId":3}
+[2023-05-02T11:51:52.473] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.802Z","clNum":1,"clNumId":3}
+[2023-05-02T11:51:52.574] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":4}
+[2023-05-02T11:51:52.642] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":4}
+[2023-05-02T11:51:52.709] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.380Z","clNum":2,"clNumId":5}
+[2023-05-02T11:51:52.787] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":5}
+[2023-05-02T11:51:52.865] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":6}
+[2023-05-02T11:51:52.932] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.803Z","clNum":1,"clNumId":6}
+[2023-05-02T11:51:53.020] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.381Z","clNum":2,"clNumId":7}
+[2023-05-02T11:51:53.108] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":7}
+[2023-05-02T11:51:53.207] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":8}
+[2023-05-02T11:51:53.274] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":8}
+[2023-05-02T11:51:53.374] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.382Z","clNum":2,"clNumId":9}
+[2023-05-02T11:51:53.440] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.804Z","clNum":1,"clNumId":9}
+[2023-05-02T11:51:53.529] [DEBUG] default - add: {"data":"2023-05-02T10:49:31.383Z","clNum":2,"clNumId":10}
+[2023-05-02T11:51:53.595] [DEBUG] default - add: {"data":"2023-05-02T10:49:38.806Z","clNum":1,"clNumId":10}

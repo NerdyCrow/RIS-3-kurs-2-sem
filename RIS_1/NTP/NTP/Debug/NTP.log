@@ -1,0 +1,4 @@
+﻿  NTP.cpp
+d:\3\рис\ntp\ntp\ntp.cpp(51): warning C4307: *: переполнение целой константы
+d:\3\рис\ntp\ntp\ntp.cpp(72): warning C4309: =: усечение константного значения
+  NTP.vcxproj -> D:\3\РИС\NTP\Debug\NTP.exe
